@@ -24,6 +24,23 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
   
+## ¿Cómo ingresar al Smart Home Website? 🚪✨
+
+¡Es muy fácil! Sigue estos simples pasos:
+
+1. **Accede al sitio web:** Visita [Smart Home Website](https://emilyroldan.github.io/WEB-FE-REACT-HW4-EMILYROLDAN/).
+
+2. **Clona el repositorio:** Descarga una copia local del repositorio usando el siguiente comando en tu terminal:
+
+    ```bash
+    git clone https://github.com/tu-usuario/tu-repositorio.git
+    ```
+
+    - Abre tu terminal o símbolo del sistema (cmd) en tu computadora.
+    - Ubica la carpeta donde descargaste el repositorio.
+    - Ejecuta `npm install` para instalar las dependencias necesarias.
+    - Luego, escribe `npm run dev` para iniciar el servidor de desarrollo.
+    - Abre `index.html` en tu navegador para probarlo localmente.
 
 
 ## ✨ ¡Explora este repositorio para conocer más sobre Smart Home! ✨
