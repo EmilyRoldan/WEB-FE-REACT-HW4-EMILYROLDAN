@@ -40,7 +40,7 @@ Currently, two official plugins are available:
     - Ubica la carpeta donde descargaste el repositorio.
     - Ejecuta `npm install` para instalar las dependencias necesarias.
     - Luego, escribe `npm run dev` para iniciar el servidor de desarrollo.
-    - Abre `index.html` en tu navegador para probarlo localmente.
+    - Abre el URL que aparece en la terminal para visualizar el sitio web localmente.
 
 
 ## ✨ ¡Explora este repositorio para conocer más sobre Smart Home! ✨
